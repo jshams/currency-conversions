@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/jshams/currency-conversions.svg?branch=master)](https://travis-ci.com/jshams/currency-conversions)
